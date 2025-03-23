@@ -1,0 +1,1 @@
+# Kurei-s-Idle-Game-1
