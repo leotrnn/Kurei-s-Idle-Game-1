@@ -45,6 +45,7 @@
             // 
             // btnClick
             // 
+            this.btnClick.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnClick.Location = new System.Drawing.Point(12, 12);
             this.btnClick.Name = "btnClick";
             this.btnClick.Size = new System.Drawing.Size(358, 358);
